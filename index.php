@@ -103,13 +103,13 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li class="active"><a href="#">Home <span class="sr-only">(current)</span></a></li>
-        <li><a href="https://app.rbashish.tech/" target="_blank" rel="noopener">Apps</a></li>
+        <li><a href="/app.rbashish.tech/" target="_blank" rel="noopener">Apps</a></li>
 		<li><a href="https://www.aashish.co.in/">Blog</a></li>
 		<li><a href="#"onClick="alert('Resume is not available at the moment!')">Resume</a></li>
         
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="http://rbashish.tech/contact">Contact</a></li>
+        <li><a href="/contact">Contact</a></li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Contributions <span class="caret"></span></a>
           <ul class="dropdown-menu">
