@@ -1,0 +1,2 @@
+[28-May-2020 18:24:15 UTC] PHP Warning:  Use of undefined constant SENDER_EMAIL - assumed 'SENDER_EMAIL' (this will throw an Error in a future version of PHP) in /home/rbashish/public_html/contact/process.php on line 56
+[09-Jul-2020 09:08:53 UTC] PHP Warning:  Use of undefined constant SENDER_EMAIL - assumed 'SENDER_EMAIL' (this will throw an Error in a future version of PHP) in /home/rbashish/public_html/contact/process.php on line 56
