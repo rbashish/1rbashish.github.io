@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title> Home | rbashish (RB ASHISH) </title>
 <script src="https://www.googleoptimize.com/optimize.js?id=OPT-TRKSQF5"></script>
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -33,7 +34,7 @@
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
 
 	 
-	 <link href="/assets/css/stack-interface.css" rel="stylesheet" type="text/css" media="all" />
+     <link href="/assets/css/stack-interface.css" rel="stylesheet" type="text/css" media="all" />
      <link href="/assets/css/socicon.css" rel="stylesheet" type="text/css" media="all" />
      <link href="/assets/css/iconsmind.css" rel="stylesheet" type="text/css" media="all" />
      <link href="/assets/css/theme.css" rel="stylesheet" type="text/css" media="all" />
@@ -86,7 +87,7 @@
 	
 	
           <!-- Start Nav bar-->
-		  <nav class="navbar navbar-inverse">
+ <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
@@ -103,7 +104,7 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li class="active"><a href="#">Home <span class="sr-only">(current)</span></a></li>
-        <li><a href="/app.rbashish.tech/" target="_blank" rel="noopener">Apps</a></li>
+        <li><a href="/app" target="_blank" rel="noopener">Apps</a></li>
 		<li><a href="https://www.aashish.co.in/">Blog</a></li>
 		<li><a href="#"onClick="alert('Resume is not available at the moment!')">Resume</a></li>
         
