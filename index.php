@@ -15,6 +15,9 @@
     <meta property="og:site_name" content="Home | rbashish (RB ASHISH)" />
     <meta property="article:publisher" content="https://twitter.com/aashishlive" />
     <meta property="og:image" content="https://pbs.twimg.com/profile_images/1312014610174636032/A_NmnlVH_400x400.jpg" />
+    <meta property="og:image:type" content="image/jpeg">
+    <meta property="og:image:width" content="200">
+    <meta property="og:image:height" content="200">
 
     
    <link rel="icon" type="image/png" href="/assets/img/logo/web.png" sizes="16x16">
