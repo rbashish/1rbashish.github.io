@@ -10,15 +10,17 @@
     <meta name="keywords" content="rbashish, Ashish Gupta, Aashish, resume, rbashish resume, rbashish tech, enthusiastic, Tech Enthusiastic, developer, coder, Ashish kumar Gupta" />
     <meta name="msvalidate.01" content="8243F78AF037AFAB40C87B00C8B64299" />
     <meta name="google-site-verification" content="Up-n3I-D8ILwwub99hgf2sg5_ZDiLZi3g1Rm74n2pvg" />
+    
+    <meta property="og:url" content="https://rbashish.tech/" />
+    <meta property="og:site_name" content="Home | rbashish (RB ASHISH)" />
+    <meta property="article:publisher" content="https://twitter.com/aashishlive" />
     <meta property="og:image" content="https://pbs.twimg.com/profile_images/1312014610174636032/A_NmnlVH_400x400.jpg" />
-    
-    
-	<link rel="icon" type="image/png" href="/assets/img/logo/web.png" sizes="16x16">
-	<link rel="icon" type="image/png" href="/assets/img/logo/web.png" sizes="48x48">
-    
-    <link rel="mask-icon" href="/assets/img/icon/safari-pinned-tab.svg" color="#5bbad5">
 
-    <link rel="canonical" href="https://rbashish.tech/" />
+    
+   <link rel="icon" type="image/png" href="/assets/img/logo/web.png" sizes="16x16">
+   <link rel="icon" type="image/png" href="/assets/img/logo/web.png" sizes="48x48">
+   <link rel="mask-icon" href="/assets/img/icon/safari-pinned-tab.svg" color="#5bbad5">
+   <link rel="canonical" href="https://rbashish.tech/" />
 	
 	
 
