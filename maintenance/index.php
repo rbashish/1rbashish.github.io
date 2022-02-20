@@ -290,7 +290,7 @@ http.createServer(function (req, res) {
     res.end('Under Maintenance!');
 }).listen(8080);<br>
 
-e-Mail: contact@aashish.co.in
+e-Mail: hello@rbashish.tech
 accessed IP: <? echo $_SERVER['REMOTE_ADDR']; ?>
 </pre></h5>
 		</div>
