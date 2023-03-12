@@ -4456,7 +4456,7 @@ p > .btn {
 }
 @media all and (max-width: 767px) {
   .btn:not(:last-child) {
-    margin-bottom: 1.85714286em;
+    margin-bottom: 0;
   }
 }
 .btn--icon {
