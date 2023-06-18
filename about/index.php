@@ -8,7 +8,7 @@
         <br/>
 <center>
     <strong>
-        <code> This page is under built... Please check back later!</code> <br /> <br />
+        <code> This page is under maintenance... Please check back later!</code> <br /> <br />
         <code> <a href="http://rbashish.tech">Go Home</a> | <a href="http://blog.rbashish.tech">Read Blog</a> </code>
     </strong>
 </center>
